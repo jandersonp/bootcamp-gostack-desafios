@@ -5,7 +5,6 @@
 </h3>
 
 <p align="center">“Sua única limitação é você mesmo”!</blockquote>
-# Cronograma de estudos
 
 ## :rocket: Sobre o desafio
 
@@ -15,12 +14,28 @@ Para isso, usei a ferramenta Notion [página oficial](https://www.notion.so/prod
 
 ### Modelo de cronograma
 
-## 📅 Cronograma semanal
+## 📅 Definindo Cronograma semanal
+
+<p align="center">
+  <img width="80%" src="./assets/cronograma-diário.png">
+</p>
+<p align="center">
+  <img width="80%" src="./assets/cronograma-semanal.png">
+</p>
 
 [Meu cronograma semanal](https://www.notion.so/d083b26698b5446aad5e02613767837e)
 
-## 📅 Cronograma diário
+## 📅 Definindo o cronograma diário
+
+<p align="center">
+  <img width="80%" src="./assets/cronograma-diário.png">
+</p>
 
 [Calendário de estudos](https://www.notion.so/19d43648f83546f08bceac8e9a03aac8)
 
-[https://www.notion.so/Dia-de-descanso-71e896a21101405a9117ab6139f441c1](https://www.notion.so/Dia-de-descanso-71e896a21101405a9117ab6139f441c1)
+
+
+
+
+
+
