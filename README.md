@@ -12,18 +12,7 @@ Nesse desafio, eu crie o meu cronograma semanal e diário, para planejar os meus
 
 Para isso, usei a ferramenta Notion [página oficial](https://www.notion.so/product).
 
-### Modelo de cronograma
-
-## 📅 Definindo Cronograma semanal
-
-<p align="center">
-  <img width="80%" src="./assets/cronograma-diário.png">
-</p>
-<p align="center">
-  <img width="80%" src="./assets/cronograma-semanal.png">
-</p>
-
-[Meu cronograma semanal](https://www.notion.so/d083b26698b5446aad5e02613767837e)
+### 📅 Cronograma:
 
 ## 📅 Definindo o cronograma diário
 
@@ -32,6 +21,16 @@ Para isso, usei a ferramenta Notion [página oficial](https://www.notion.so/prod
 </p>
 
 [Calendário de estudos](https://www.notion.so/19d43648f83546f08bceac8e9a03aac8)
+
+## 📅 Definindo Cronograma semanal
+
+<p align="center">
+  <img width="80%" src="./assets/cronograma-semanal.png">
+</p>
+
+[Meu cronograma semanal](https://www.notion.so/d083b26698b5446aad5e02613767837e)
+
+
 
 
 
